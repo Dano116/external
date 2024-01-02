@@ -32,8 +32,8 @@
      "stack": ["Border", "Collie" ],
      "link" : "information" } , 
     
-     { "title": "Sweets 6", 
-      "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy3.jpeg?token=GHSAT0AAAAAACCVSCMLVFTAFV25EORZTG74ZDCM5QA",
+     { "title": "Variety Tubs", 
+      "imgUrl":"https://raw.githubusercontent.com/Dano116/external/main/tubs.jpg?token=GHSAT0AAAAAACCVSCMLVFTAFV25EORZTG74ZDCM5QA",
       "stack": ["Terrier", "Crossbreed" ], 
       "link" : "information" }
     
