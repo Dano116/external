@@ -2,7 +2,7 @@
   "articles":[
 {
       "title": "Sweets 1",
-      "imgUrl": "https://raw.githubusercontent.com/Dano116/WebDev/main/dog1.jpeg?token=GHSAT0AAAAAACCVSCMLLQQXE7IT2S3QMKAEZDCM4VQ",   
+      "imgUrl": "https://github.com/Dano116/external/blob/42f34d0cf7aba7f302cfec5b59259d864b5940d7/pickamix.webp",   
       "stack": ["Collie","(Smooth coat)", "crossbreed"],
       "link": "information"         
    },
